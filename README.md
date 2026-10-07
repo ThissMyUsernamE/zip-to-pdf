@@ -85,3 +85,8 @@ count reported by Python.
 - The script skips an archive whenever its matching `_ocr.pdf` already exists.
   Remove that output PDF if you want to process the archive again.
 - Only add ZIP archives you trust.
+
+## License
+
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for
+the full text.
