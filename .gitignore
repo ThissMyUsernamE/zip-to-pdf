@@ -1,0 +1,8 @@
+.venv/
+ocr_env/
+__pycache__/
+*.py[cod]
+
+# Keep archive inputs and generated PDFs out of the published repository.
+/source/*
+!/source/.gitkeep
